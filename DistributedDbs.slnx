@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AppHost/AppHost.csproj" />
+  <Project Path="Consumer/Consumer.csproj" />
+  <Project Path="MigrationService/MigrationService.csproj" />
+  <Project Path="Producer/Producer.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+</Solution>
